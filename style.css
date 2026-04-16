@@ -1,0 +1,28 @@
+body {
+  background-color: #0b0f1a;
+  color: #e5e7eb;
+  font-family: sans-serif;
+}
+
+h3{
+    color:#d18d8d
+}
+
+h1 {
+  color: #7c3aed;
+}
+
+h2 {
+  background-color: #111827;
+  padding: 6px;
+  border-radius: 6px;
+}
+
+a {
+  color: #22d3ee;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #d8358c;
+}
