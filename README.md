@@ -1,15 +1,15 @@
-# 🌐 VoidLabs HQ
+# 🎬 StreamVault
 
-A curated website for movies, anime, and entertainment resources.
+A curated platform for movies, anime, and reading content.
+
+## 🌐 Live Site
+https://voidlabs-hq.github.io/
 
 ## 🔥 Features
 - 📺 Movie streaming links
 - 🎌 Anime websites collection
 - ⚡ Fast and minimal UI
 - 🌙 Dark theme
-
-## 🚀 Live Website
-👉 https://voidlabs-hq.github.io/
 
 ## 🛠️ Tech Used
 - HTML
